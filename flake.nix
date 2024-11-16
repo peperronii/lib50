@@ -15,7 +15,7 @@
             owner = "peperronii";
             repo = "lib50";
             rev = "main";
-            hash = "sha256-Mt3tiO2VkJhIGlTA9tDFhjqjTlKB2QVp5nbs8EfZx2w=";
+            hash = "sha256-OzETG0uPv5wc3hYzHAtdzkc5DXFLcoEqdZxRW4qxblk=";
         };
       };
     };
