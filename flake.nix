@@ -17,7 +17,7 @@
             rev = "main";
             hash = "sha256-Mt3tiO2VkJhIGlTA9tDFhjqjTlKB2QVp5nbs8EfZx2w=";
         };
-        propagateBuildInputs = with pypkgs; [ attrs packaging pexpect pyyaml requests setuptools termcolor jellyfish cryptography ];
+        propagatedBuildInputs = with pypkgs; [ attrs packaging pexpect pyyaml requests setuptools termcolor jellyfish cryptography ];
       };
     };
 }
